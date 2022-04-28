@@ -2,7 +2,12 @@
  
 - 
 - 
- 
+
+# Micro Python TIPS
+
+-
+-
+
 # TODO
  
 -
