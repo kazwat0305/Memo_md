@@ -1,18 +1,17 @@
 # Python関連 TIPS
- 
-- 
-- 
-
-# Micro Python TIPS
 
 -
 -
 
-# TODO
- 
+## Micro Python TIPS
+
 -
- 
-# Note
- 
-- 
- 
+-
+
+## TODO
+
+-
+
+## Note
+
+-
