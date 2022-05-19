@@ -4,9 +4,11 @@
 
 ## 作業手順/TIPS
 
-- [Python](Python/README.md)
+- [Python](Python/README.md)  
 
 - [Silab社 Starter Kitによる微小電流測定方法](silab_current_measurement/README.md)
+
+- [NORDIC社 Power Profiler Kit2による消費電流の測定方法](NORDIC_PowerProfilerKit2/README.md)
 
 ## Note
 
