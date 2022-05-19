@@ -6,7 +6,7 @@
 
 - [Python](Python/README.md)
 
--
+- [Silab社 Starter Kitによる微小電流測定方法](silab_current_measurement/README.md)
 
 ## Note
 
