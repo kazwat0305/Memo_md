@@ -27,6 +27,10 @@
   - `VSCode`での参照
   - `GitHub`経由での更新
 
+- MacBook (12-inch, 2015)
+  - 
+  - 
+
 - Thinkpad X1 carbon (2021:会社PC)
   - `VSCode`での参照
   - `icloud`経由での更新 (Commitは、Thinkpad X1 yoga (2017)で行う)
