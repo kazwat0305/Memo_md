@@ -1,0 +1,9 @@
+*.plist
+prog/c/HelloWorld/hello
+prog/c/HelloWorld/hello.dSYM/Contents/Resources/DWARF/hello
+prog/c/scanf/scanf
+prog/c/scanf/scanf.dSYM/Contents/Resources/DWARF/scanf
+prog/c/snprintf/snprintf
+prog/c/snprintf/snprintf.dSYM/Contents/Resources/DWARF/snprintf
+prog/c/sprintf/sprintf
+prog/c/sprintf/sprintf.dSYM/Contents/Resources/DWARF/sprintf
