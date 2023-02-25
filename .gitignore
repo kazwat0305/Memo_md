@@ -7,3 +7,4 @@ prog/c/snprintf/snprintf
 prog/c/snprintf/snprintf.dSYM/Contents/Resources/DWARF/snprintf
 prog/c/sprintf/sprintf
 prog/c/sprintf/sprintf.dSYM/Contents/Resources/DWARF/sprintf
+.vscode/settings.json
