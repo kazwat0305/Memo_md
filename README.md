@@ -38,3 +38,7 @@
 
 - iPad,iPhone
   - `icloud`での参照、更新
+
+- DELL Inspiron14 5430 (2024)
+  - `VSCode`での参照
+  - `GitHub`経由での更新
